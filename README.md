@@ -34,13 +34,3 @@ Trường: Công nghệ thông tin và truyền thông
 | Tên | MSSV | Vai trò |
 |-----|------|----------|
 | Lý Khánh Trân | B2303787 | Reviewer & Tài liệu |
-
-
----
-
-## ⚙️ Hướng dẫn sử dụng
-
-Clone repository về máy:
-
-```bash
-git clone https://github.com/yourusername/B2303790.git
