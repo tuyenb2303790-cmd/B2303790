@@ -1,5 +1,4 @@
-# B2303790
-Thông tin sinh viên  
+# Thông tin sinh viên  
 MSSV: B2303790  
 Tên: Nguyễn Thị Kim Tuyến  
 Học phần: Phát triển hệ thống web  
