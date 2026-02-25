@@ -33,4 +33,7 @@ Trường: Công nghệ thông tin và truyền thông
 
 | Tên | MSSV | Vai trò |
 |-----|------|----------|
-| Lý Khánh Trân | B2303787 | Reviewer & Tài liệu |
+| Lưu Văn Mược | B2303765 | Reviewer & Tài liệu |
+| Nguyễn Thị Kim Tuyến | B2303790 | Reviewer & Tài liệu |
+| Dương Yến Nhi | B2306633 | Reviewer & Tài liệu |
+| Huỳnh Thị Yến Nhi | B2306634 | Reviewer & Tài liệu |
